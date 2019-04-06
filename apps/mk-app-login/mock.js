@@ -18,6 +18,7 @@ function initMockData() {
 }
 
 fetch.mock('/v1/user/login', (option) => {
+    debugger
     initMockData()
 
     const user = mockData.users.find(o => o.mobile == option.mobile && o.password == option.password)

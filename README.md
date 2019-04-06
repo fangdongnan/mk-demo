@@ -56,13 +56,25 @@ $ npm start
 
 ## DEMO截图
 
-- mk框架前端包含内容：
+# mk框架前端包含内容：
 
 <img src="https://reactchina.sxlcdn.com/uploads/default/original/2X/7/77611b9d4cd7c320c4035093794c2d93f0153eab.jpg" width="365" height="500">
 
-- 登录：
+# 登录：
 
 <img src="https://reactchina.sxlcdn.com/uploads/default/original/2X/0/052d7e16f9be9f72003438928cd8362374d46a5b.png" width="690" height="465">
+
+
+1:如果没有验证则默认进入登录界面，通过
+
+
+
+
+
+
+
+
+
 
 - 注册：
 

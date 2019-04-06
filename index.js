@@ -24,7 +24,7 @@ import mk_app_home_list from './apps/mk-app-home/apps/mk-app-home-list/index.js'
 import mk_app_home_shortcuts from './apps/mk-app-home/apps/mk-app-home-shortcuts/index.js'
 import mk_app_home from './apps/mk-app-home/index.js'
 import mk_app_hot_modify_app from './apps/mk-app-hot-modify-app/index.js'
-import mk_app_login from './apps/mk-app-login/index.js'
+import mk_app_login from './apps/mk-app-login/index.js' //登录的界面
 import mk_app_mea_unit_card_test from './apps/mk-app-mea-unit-card/apps/mk-app-mea-unit-card-test/index.js'
 import mk_app_mea_unit_card from './apps/mk-app-mea-unit-card/index.js'
 import mk_app_meta_design_preview from './apps/mk-app-meta-design/apps/mk-app-meta-design-preview/index.js'

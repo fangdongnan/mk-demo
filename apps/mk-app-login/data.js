@@ -1,4 +1,5 @@
 export function getMeta() {
+	debugger
 	return {
 		name: 'root',
 		component: 'Layout',
